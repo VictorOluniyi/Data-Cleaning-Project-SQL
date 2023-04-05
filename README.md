@@ -3,7 +3,7 @@
 ## About the Project
 This repository contains a data cleaning project for a real estate dataset. The objective of this project is to clean the dataset and prepare it for analysis.
 
-Data Source
+## Data Source
 The data used for this project was obtained from the public dataset repository, Kaggle. The dataset contains information on real estate properties, including their unique_id, parcel_id, land_use, sale_date, sale_price, legal_reference, sold_as_vacant, owner_name, acre_age, land_value, building_value, total_value, year_built, bedrooms, full_bath, and half_bath
 
 ## Tech Stack 
