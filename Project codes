@@ -1,4 +1,4 @@
-## 1. Creating the database
+1. Creating the database
 
 CREATE TABLE Nashville (
 	unique_id INTEGER,
